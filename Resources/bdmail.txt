@@ -1,0 +1,8 @@
+﻿<html>
+<body>
+    <h2 style="font-family: Forte; color:blue">Dear {0},</h2>
+    <img src="cid:{1}.jpg" height="600" width="900"/>
+    <h2 style="font-family: Forte; color:blue">From,</h2>
+    <h2 style="font-family: Forte; color:blue">NG Team</h2>
+</body>
+</html>
